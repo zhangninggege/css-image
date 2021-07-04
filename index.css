@@ -74,32 +74,32 @@
     transform: rotate(-45deg);
 }
 .wrapper .main .item:nth-child(1) .inner .bg{
-    background: url(./image/1.webp);
+    background: url(./image/1.jpg);
     background-size: cover;
     background-position:center center ;
 }
 .wrapper .main .item:nth-child(2) .inner .bg{
-    background: url(./image/2.webp);
+    background: url(./image/2.jpg);
     background-size: cover;
     background-position:center center ;
 }
 .wrapper .main .item:nth-child(3) .inner .bg{
-    background: url(./image/3.webp);
+    background: url(./image/3.jpg);
     background-size: cover;
     background-position:center center ;
 }
 .wrapper .main .item:nth-child(4) .inner .bg{
-    background: url(./image/4.webp);
+    background: url(./image/4.jpg);
     background-size: cover;
     background-position:center center ;
 }
 .wrapper .main .item:nth-child(5) .inner .bg{
-    background: url(./image/5.webp);
+    background: url(./image/5.jpg);
     background-size: cover;
     background-position:center center ;
 }
 .wrapper .main .item:nth-child(6) .inner .bg{
-    background: url(./image/6.webp);
+    background: url(./image/6.jpg);
     background-size: cover;
     background-position:center center ;
 }
